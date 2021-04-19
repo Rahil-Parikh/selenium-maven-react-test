@@ -11,7 +11,7 @@ public class ReactTest {
 		//System.setProperty("webdriver.chrome.driver","G:\\chromedriver.exe");
 		//WebDriver driver = new ChromeDriver();
     	
-        String baseUrl = "http://0.0.0.0:4200/";
+        String baseUrl = "http://172.19.0.2:4200/";
         String expectedTitle = "React App";
         String actualTitle = "";
 
