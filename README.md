@@ -1,4 +1,5 @@
-# Selenium-Maven-React-Test
+[![](https://img.shields.io/badge/Made_with-Maven-maroon?style=for-the-badge&logo=Apache%20Maven&logoColor=white)](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+<span><h2 align="center">Selenium Maven React Test</h2></span>
 
 This project is a dependency of [Rahil-Parikh/MSD-demo-pipeline](https://github.com/Rahil-Parikh/MSD-demo-pipeline).
 This is a Java based implementation of a Selenium sample testing app and contains the following.
